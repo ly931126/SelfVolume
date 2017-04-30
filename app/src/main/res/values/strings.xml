@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SelfVolumeCircleProgrssBar</string>
+    <string name="add_volume">增加音量</string>
+    <string name="reduce_volume">降低音量</string>
+</resources>
