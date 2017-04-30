@@ -1,5 +1,5 @@
 #### 效果图如下
-<img src="progrssbar.gif"  width="200" height="100"/>
+<img src="progrssbar.gif"  width="500" height="200"/>
 
 ---
 
